@@ -15,8 +15,8 @@
   "author": "TheFuzzy",
   "license": "MIT",
   "dependencies": {
-    "xmlbuilder": "~2.1.0",
-    "underscore": "~1.5.2"
+    "underscore": "^1.13.6",
+    "xmlbuilder": "~2.1.0"
   },
   "repository": {
     "type": "git",
